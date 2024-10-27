@@ -5,7 +5,7 @@ This project allows for the faster setup of a Wazuh Linux agent.
 @uthor : Nathan Martel
 
 ```
-git clone https://github.com/nathanmartel21/wazuh-agent-linux
+git clone https://github.com/nathanmartel21/wazuh-agent-linux.git
 ```
 ```
 mv wazuh-agent-linux/agent.sh ./
